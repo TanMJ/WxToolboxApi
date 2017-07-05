@@ -1,0 +1,9 @@
+{
+  "name": "wx-app",
+  "version": "0.0.0",
+  "description": "wxApp",
+  "main": "server.js",
+  "author": {
+    "name": "tanmj"
+  }
+}
